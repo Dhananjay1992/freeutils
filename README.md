@@ -1,6 +1,6 @@
-# freeutils
+# freeutils for Python
 This is Free to use utils or code snippets created by DJDeveloper. Please feel free to fork and add your contributions.
-It provides easy to use pluggable lib. you can have separation between differt logs for example Database logs can be logged by using db_logger and generic logs can be logged by using main_logger. You can use any supported logging methods for python logging module.
+It provides easy to use pluggable lib. You can have separation between different logs. For example Database logs can be logged by using db_logger and generic logs can be logged by using main_logger. You can use any supported logging methods for python logging module.
 
 # Default parameters
 
